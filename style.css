@@ -1,0 +1,26 @@
+body{
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+#wellcome{
+    color: deeppink;
+    font-weight: 900;
+    text-align: center;
+}
+.first{
+    
+    display: flex;
+}
+img{
+    width: 70%;
+}
+h3{
+    color: gold;
+}
+ol{
+    background-image: -moz-linear-gradient(gray red);
+    box-shadow: 5px 10px 10px gray;
+    width: 30%;
+    border-radius: 20px;
+    border-left: red solid;
+    border-right: red solid;
+}
