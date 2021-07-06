@@ -20,7 +20,21 @@ ol{
     background-image: -moz-linear-gradient(gray red);
     box-shadow: 5px 10px 10px gray;
     width: 30%;
-    border-radius: 20px;
+    border-radius:10px;
     border-left: red solid;
     border-right: red solid;
+}
+h1{
+    font-size: 80px;
+}
+h2{
+    text-align: center;
+}
+.hobby{
+    width: 60%;
+box-shadow: 10px 10px 10px gray;
+padding: 5px;
+border: hotpink solid;
+border-radius: 10px;
+padding-bottom: 5px;
 }
